@@ -1,3 +1,7 @@
 # arduino4_LEDs
-Montagem de dois LEDs em paralelo no arduino
+
+## Contextualização
+
+- Projeto Arduíno que acende o LED incorporado(LED_BUILTIN) e o faz piscar.<br>
+
 ## Esquema do projeto
